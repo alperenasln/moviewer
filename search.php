@@ -17,7 +17,7 @@ $search=$input;
 <!-- START PAGE SOURCE -->
 <div id="shell">
     <div id="header">
-        <h1 id="logo"><a href="/moviewer/index.php">Moviewer</a></h1>
+        <h1 id="logo"><a href="/index.php">Moviewer</a></h1>
         <div class="social"> <span>FOLLOW US ON:</span>
             <ul>
                 <li><a class="twitter" href="#">twitter</a></li>
@@ -28,7 +28,7 @@ $search=$input;
         </div>
         <div id="navigation">
             <ul>
-                <li><a class="active" href="/moviewer/index.php">HOME</a></li>
+                <li><a class="active" href="/index.php">HOME</a></li>
                 <li><a href="#">NEWS</a></li>
                 <li><a href="#">IN THEATERS</a></li>
                 <li><a href="#">COMING SOON</a></li>
